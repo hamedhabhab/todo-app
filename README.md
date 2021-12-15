@@ -1,6 +1,6 @@
 
 
-# This was a todo app ui test in react.
+# This is a todo app ui test in react.
 
 To run app:
 
